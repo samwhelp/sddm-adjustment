@@ -1,0 +1,2 @@
+# sddm-adjustment
+sddm-adjustment
