@@ -12,30 +12,47 @@ has_children: false
 
 ## SDDM
 
-* GitHub / sddm / [sddm](https://github.com/sddm/sddm)
-* GitHub / KDE / [sddm-kcm](https://github.com/KDE/sddm-kcm)
+| SDDM |
+| ---- |
+| GitHub / sddm / [sddm](https://github.com/sddm/sddm) |
+| GitHub / KDE / [sddm-kcm](https://github.com/KDE/sddm-kcm) |
 
 
 
 
 ## SDDM / Themes
 
-* KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest)
+| SDDM / Themes |
+| ------------- |
+| KDE Store / [SDDM Login Themes](https://store.kde.org/browse?cat=101&ord=latest) |
+
+
+
+
+## Wiki
+
+| Wiki |
+| --------- |
+| [SDDM](https://en.wikipedia.org/wiki/Simple_Desktop_Display_Manager) |
 
 
 
 
 ## Arch Wiki
 
-* [SDDM](https://wiki.archlinux.org/title/SDDM)
+| Arch Wiki |
+| --------- |
+| [SDDM](https://wiki.archlinux.org/title/SDDM) |
 
 
 
 
 ## Debian Wiki
 
-* [SDDM](https://wiki.debian.org/SDDM)
-* [DisplayManager](https://wiki.debian.org/DisplayManager)
+| Debian Wiki |
+| ----------- |
+| [SDDM](https://wiki.debian.org/SDDM) |
+| [DisplayManager](https://wiki.debian.org/DisplayManager) |
 
 
 
