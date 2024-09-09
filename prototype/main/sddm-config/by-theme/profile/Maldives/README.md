@@ -11,7 +11,7 @@
 
 | Config File Path |
 | --- |
-| [/etc/sddm.conf.d/kde_settings.conf](./asset/overla/etc/sddm.conf.d/kde_settings.conf) |
+| [/etc/sddm.conf.d/kde_settings.conf](./asset/overlay/etc/sddm.conf.d/kde_settings.conf) |
 
 
 ### sddm-theme-maldives
