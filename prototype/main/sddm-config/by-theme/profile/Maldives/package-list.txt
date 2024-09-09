@@ -1,0 +1,33 @@
+
+
+##
+## # SDDM
+##
+
+
+
+
+##
+## ## Package / Display Manager / SDDM
+##
+
+sddm
+#sddm-x11
+
+
+
+
+##
+## ## Package / SDDM / Theme
+##
+
+sddm-themes
+
+
+
+
+##
+## ## Package / SDDM / Plugin
+##
+
+#qt6-qtvirtualkeyboard
