@@ -4,6 +4,17 @@
 
 
 
+## example-config
+
+run
+
+``` sh
+sddm --example-config
+```
+
+
+
+
 ## Config File Path
 
 
