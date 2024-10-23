@@ -1,0 +1,41 @@
+
+
+##
+## # SDDM
+##
+
+
+
+
+##
+## ## Package / Display Manager / SDDM
+##
+
+sddm
+#sddm-x11
+
+
+
+
+##
+## ## Package / SDDM / Theme
+##
+
+sddm-theme-maldives
+#sddm-theme-maui
+#sddm-theme-maya
+#sddm-theme-elarun
+#sddm-theme-breeze
+
+#sddm-theme-debian-maui
+#sddm-theme-debian-elarun
+#sddm-theme-debian-breeze
+
+
+
+
+##
+## ## Package / SDDM / Plugin
+##
+
+#qt6-qtvirtualkeyboard
